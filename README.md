@@ -14,11 +14,11 @@ We focus on three types of models:
 2. **Mixed Effects Models**
 3. **Gaussian Graphical Models**
 
-For each of these, we compare three different approaches:
+For each of these, we compare the different approaches:
 
 - **Standard Stan models**  
 - **Stan models using Sufficient Statistics**  
-- **BRMS models for regression**, which is considered the state-of-the-art package for Bayesian regression in R.  
+- **BRMS models for regression(**, which is considered the state-of-the-art package for Bayesian regression in R.  
 
 ### BRMS Model Considerations
 
