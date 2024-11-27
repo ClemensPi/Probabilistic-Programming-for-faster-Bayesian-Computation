@@ -11,7 +11,7 @@ The goal of this repository is to demonstrate how the use of sufficient statisti
 We focus on three types of models:
 
 1. **Linear Regression Models**
-2. **Mixed Effects Models**
+2. **Random Effects Models**
 3. **Gaussian Graphical Models**
 
 We compare the different approaches:
